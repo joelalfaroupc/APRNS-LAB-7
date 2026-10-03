@@ -1,0 +1,16 @@
+{
+  "DDPG": {
+    "evaluations": 254,
+    "final_rolling_mean_100": -7.57516219820203,
+    "last_20_mean_of_rounded_evaluations": 117.4,
+    "best_rounded_evaluation_mean": 259.0,
+    "final_rounded_evaluation_mean": 183.0
+  },
+  "TD3": {
+    "evaluations": 210,
+    "final_rolling_mean_100": 99.1249935881816,
+    "last_20_mean_of_rounded_evaluations": 156.4,
+    "best_rounded_evaluation_mean": 280.0,
+    "final_rounded_evaluation_mean": 280.0
+  }
+}
